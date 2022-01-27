@@ -3,7 +3,7 @@
 //TODO : visualization of number of isCompleted
 
 import React, { useState } from "react";
-import reactDom from "react-dom";
+// import reactDom from "react-dom";
 
 function TodosComponent() {
   const [currentTodo, setCurrentTodo] = useState("");
